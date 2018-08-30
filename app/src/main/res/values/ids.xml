@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="addPhoto" type="id">addPhoto</item>
+    <item name="photoLib" type="id">photoLib</item>
+    <item name="rtLayout" type="id">rrLayout</item>
+    <item name="ivPhoto" type="id">ivPhoto</item>
+    <item name="tvAddPhoto" type="id">tvAddPhoto</item>
+    <item name="action_send" type="id">send</item>
+
+</resources>

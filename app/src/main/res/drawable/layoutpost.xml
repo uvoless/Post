@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 預設時 -->
+    <item android:color="@android:color/black">
+        <shape android:shape="rectangle">
+            <corners android:radius="0.7dip" />
+            <stroke android:width="3dip" android:color="#00BDBD"/>
+            <solid android:color="#ffffff"   />
+
+
+        </shape>
+    </item>
+</selector>

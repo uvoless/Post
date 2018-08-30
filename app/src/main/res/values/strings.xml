@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Post</string>
+
+
+    <string name="add_photo">Add photo</string>
+    <string name="what_s_new">What\'s new?</string>
+    <string name="msg_NoCameraAppsFound">No camera apps found</string>
+    <string name="clearall">Clear all</string>
+    <string name="clearAll">Clear all</string>
+    <string name="Choosephoto_alerttitle">Choose a photo from?</string>
+
+</resources>
