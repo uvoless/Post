@@ -28,24 +28,6 @@
             android:onClick="onClick" />
 
 
-        <!--<TextView-->
-            <!--android:id="@+id/tvAddPhoto"-->
-            <!--android:layout_width="wrap_content"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:layout_alignParentTop="true"-->
-            <!--android:layout_centerHorizontal="true"-->
-            <!--android:layout_gravity="center_horizontal"-->
-            <!--android:layout_marginTop="56dp"-->
-            <!--android:gravity="center_vertical"-->
-            <!--android:text="@string/add_photo"-->
-            <!--android:textAlignment="center"-->
-            <!--android:textColor="@color/colorHint"-->
-            <!--android:textSize="30sp" />-->
-
-
-
-
-
 
     </RelativeLayout>
 

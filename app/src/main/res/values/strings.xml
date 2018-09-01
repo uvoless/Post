@@ -8,5 +8,15 @@
     <string name="clearall">Clear all</string>
     <string name="clearAll">Clear all</string>
     <string name="Choosephoto_alerttitle">Choose a photo from?</string>
+    <string name="save">Save</string>
+    <string name="selfIntro">Let other people know who you are!</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="selfIntrodution">Self introdution</string>
+    <string name="vipStatus">VIP Status</string>
+    <string name="premium_plan">Premium plan</string>
+    <string name="no">No</string>
+
 
 </resources>

@@ -1,7 +1,7 @@
 package com.juiyingchiu.post;
 
 import android.Manifest;
-import android.app.Activity;
+
 import android.app.Dialog;
 import android.content.Context;
 import android.content.DialogInterface;
@@ -66,8 +66,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     private void handleView() {
-        addNewPhoto = findViewById(R.id.addPhoto);
-        photoLib = findViewById(R.id.photoLib);
+
         imageView = findViewById(R.id.ivPhoto);
         send = findViewById(R.id.action_send);
 
@@ -228,8 +227,3 @@ public class MainActivity extends AppCompatActivity {
     }
 
 }
-
-
-
-
-

@@ -29,6 +29,19 @@
         <item name="colorControlHighlight">@color/colorAccent</item>
     </style>
 
+    <style name="profileItem" parent="Theme.AppCompat">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#20B2AA</item>
+
+    </style>
+
+    <style name="profileDescribe" parent="Theme.AppCompat">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#6c6c6c</item>
+
+    </style>
+
+
 </resources>
 
 
